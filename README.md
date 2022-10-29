@@ -18,3 +18,9 @@
 • [CSS Units CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Units%20CheatSheet.png)
 
 • [CSS Background CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Background%20CheatSheet.png)
+
+• [CSS Position CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Position%20CheatSheet.png)
+
+• [CSS Text CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Text%20CheatSheet.png)
+
+• [CSS Font CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Font%20CheatSheet.png)
