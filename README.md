@@ -24,3 +24,5 @@
 • [CSS Text CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Text%20CheatSheet.png)
 
 • [CSS Font CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Font%20CheatSheet.png)
+
+• [Combine Colors when Designing Website](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/Combine%20colors%20when%20designing%20website.png)
