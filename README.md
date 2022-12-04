@@ -26,3 +26,8 @@
 • [CSS Font CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Font%20CheatSheet.png)
 
 • [Combine Colors when Designing Website](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/Combine%20colors%20when%20designing%20website.png)
+
+
+### Support this Repo
+
+<a href="https://www.buymeacoffee.com/imalfaiz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
