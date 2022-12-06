@@ -27,6 +27,8 @@
 
 • [Combine Colors when Designing Website](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/Combine%20colors%20when%20designing%20website.png)
 
+• [CSS FlexBox flex-direction CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Flexbox%20flex-direction%20CheatSheet.png)
+
 
 ### Support this Repo
 
