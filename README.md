@@ -29,6 +29,8 @@
 
 • [CSS FlexBox flex-direction CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Flexbox%20flex-direction%20CheatSheet.png)
 
+• [CSS FlexBox flex-wrap CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Flexbox%20flex-wrap%20CheaSheet.jpg)
+
 
 ### Support this Repo
 
