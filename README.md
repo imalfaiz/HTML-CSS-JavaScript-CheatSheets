@@ -39,6 +39,11 @@
 
 • [CSS FlexBox Item Properties CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Flexbox%20item%20properties%20CheatSheet.png)
 
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=imalfaiz/HTML-CSS-JavaScript-CheatSheets&type=Date)](https://star-history.com/#imalfaiz/HTML-CSS-JavaScript-CheatSheets&Date)
+
 ### Support this Repo
 
 <a href="https://www.buymeacoffee.com/imalfaiz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
