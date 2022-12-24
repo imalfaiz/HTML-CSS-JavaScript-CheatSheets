@@ -33,6 +33,9 @@
 
 • [CSS FlexBox justify-content CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Flexbox%20justify-content%20CheaSheet.jpg)
 
+• [CSS FlexBox align-items CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Flexbox%20align-items%20CheatSheet.png)
+
+
 ### Support this Repo
 
 <a href="https://www.buymeacoffee.com/imalfaiz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
