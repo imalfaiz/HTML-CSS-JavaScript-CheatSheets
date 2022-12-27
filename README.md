@@ -39,6 +39,8 @@
 
 • [CSS FlexBox Item Properties CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Flexbox%20item%20properties%20CheatSheet.png)
 
+• [CSS Grid Template and Gap CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Grid%20Template%20%26%20Gap%20CheatSheet.png)
+
 
 ## Star History
 
