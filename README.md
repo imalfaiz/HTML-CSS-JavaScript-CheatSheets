@@ -49,6 +49,8 @@
 
 • [CSS Grid align-items CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Grid%20align-items%20CheatSheet.png)
 
+• [CSS Grid-column/row CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Grid%20items%20cheatsheet.png)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=imalfaiz/HTML-CSS-JavaScript-CheatSheets&type=Date)](https://star-history.com/#imalfaiz/HTML-CSS-JavaScript-CheatSheets&Date)
