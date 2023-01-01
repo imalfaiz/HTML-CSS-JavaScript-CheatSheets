@@ -53,6 +53,8 @@
 
 • [CSS Grid justify-self CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Grid%20justify-self%20CheatSheet.png)
 
+• [CSS Grid align-self CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Grid%20align-self%20CheatSheet.png)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=imalfaiz/HTML-CSS-JavaScript-CheatSheets&type=Date)](https://star-history.com/#imalfaiz/HTML-CSS-JavaScript-CheatSheets&Date)
