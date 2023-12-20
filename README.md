@@ -55,6 +55,10 @@
 
 • [CSS Grid align-self CheatSheet](https://github.com/imalfaiz/HTML-CSS-JavaScript-CheatSheets/blob/main/CSS%20Grid%20align-self%20CheatSheet.png)
 
+• [HTML Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/html)
+
+• [JavaScript Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/javascript)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=imalfaiz/HTML-CSS-JavaScript-CheatSheets&type=Date)](https://star-history.com/#imalfaiz/HTML-CSS-JavaScript-CheatSheets&Date)
